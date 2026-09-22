@@ -8,17 +8,27 @@
 
 ## Ships
 
-### Champion P-Class
+### Apogee P-Class
 
 ![Apogee P-Class](images/apogepirate.png)
 
+### Champion P-Class
+
 ![Champion P-Class](images/champiraton.png)
+
+### Medusa P-Class
 
 ![Medusa P-Class](images/medusapirt.png)
 
+### Gemini P-Class
+
 ![Gemini P-Class](images/temipira.png)
 
+### Grendel P-Class
+
 ![Grendel P-Class](images/vtendpigora.png)
+
+### Wayfarer P-Class
 
 ![Wayfarer P-Class](images/wrayfatepi.png)
 
