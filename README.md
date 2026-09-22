@@ -1,6 +1,9 @@
 
 <h1 align="center">Starsector Ships (P) Pirate</h1>
 
+<p align="center">
+  ...
+  </p>
 
 <h2 align="center">Features</h2>
 
