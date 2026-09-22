@@ -1,8 +1,7 @@
 
 <h1 align="center">Starsector Ships (P) Pirate</h1>
 
-<p align="center">
-  ...
+<br>
   </p>
 
 <h2 align="center">Features</h2>
@@ -12,8 +11,7 @@
 <p align="center">- Designed to fit the vanilla Starsector setting and gameplay
 </p>
 
-<p align="center">
-  ...
+<br>
   </p>
   
 <h2 align="center">Ships</h2>
@@ -63,8 +61,7 @@
 <p align="center">- No additional dependencies
 </p>
 
-<p align="center">
-  ...
+<br>
   </p>
 
 <h2 align="center">Installation</h2>
@@ -76,8 +73,7 @@
 <p align="center">5. Enable *Ships (P) Pirate* in the mod manager.
 </p>
 
-<p align="center">
-  ...
+<br>
   </p>
 
 <h2 align="center">Known Issues</h2>
@@ -85,8 +81,7 @@
 <p align="center">- None currently known.
 </p>
 
-<p align="center">
-  ...
+<br>
   </p>
 
 <h2 align="center">Changelog</h2>
@@ -99,14 +94,16 @@
 <p align="center">- Designed to fit the vanilla Starsector setting and gameplay
 </p>
 
-<p align="center">
-  ...
+<br>
   </p>
 
 <h2 align="center">Credits</h2>
 
 <p align="center">Created by Zuttser
 </p>
+
+<br>
+  </p>
 
 <h2 align="center">License</h2>
 
