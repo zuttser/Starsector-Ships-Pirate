@@ -5,7 +5,9 @@
 
 <p align="center">
 - New ship variants
+<p align="center">
 - Custom ship designs
+<p align="center">
 - Designed to fit the vanilla Starsector setting and gameplay
 </p>
   
@@ -44,7 +46,8 @@ More ships will be added here.
 ## Requirements
 
 <p align="center">
-- Starsector **0.98a-RC8**
+- Starsector 0.98a-RC8
+<p align="center">
 - No additional dependencies
 </p>
 
@@ -52,9 +55,13 @@ More ships will be added here.
 
 <p align="center">
 1. Download the latest release.
+<p align="center">
 2. Extract the `Ships (P) Pirate` folder.
+<p align="center">
 3. Move it to your Starsector `mods` folder.
+<p align="center">
 4. Launch Starsector.
+<p align="center">
 5. Enable **Ships (P) Pirate** in the mod manager.
 </p>
 
@@ -70,20 +77,22 @@ More ships will be added here.
 
 <p align="center">
 - Initial release
+<p align="center">
 - New ship variants
+<p align="center">
 - Custom ship designs
+<p align="center">
 - Designed to fit the vanilla Starsector setting and gameplay
 </p>
 
 ## Credits
 
 <p align="center">
-Created by **Zuttser**.
+Created by Zuttser
 </p>
 
 ## License
 
-<p align="center">
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
 </p>
