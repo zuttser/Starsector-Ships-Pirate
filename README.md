@@ -10,17 +10,17 @@
 
 ### Champion P-Class
 
-![Apogee P-Class](Ships (P) Pirate/graphics/ships/apogepirate.png)
+![Apogee P-Class](images/apogepirate.png)
 
-![Champion P-Class](Ships (P) Pirate/graphics/ships/champiraton.png)
+![Champion P-Class](images/champiraton.png)
 
-![Medusa P-Class](Ships (P) Pirate/graphics/ships/medusapirt.png)
+![Medusa P-Class](images/medusapirt.png)
 
-![Gemini P-Class](Ships (P) Pirate/graphics/ships/temipira.png)
+![Gemini P-Class](images/temipira.png)
 
-![Grendel P-Class](Ships (P) Pirate/graphics/ships/vtendpigora.png)
+![Grendel P-Class](images/vtendpigora.png)
 
-![Wayfarer P-Class](Ships (P) Pirate/graphics/ships/wrayfatepi.png)
+![Wayfarer P-Class](images/wrayfatepi.png)
 
 ### Other Ships
 
