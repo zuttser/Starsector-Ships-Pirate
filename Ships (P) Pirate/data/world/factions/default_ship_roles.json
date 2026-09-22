@@ -1,0 +1,35 @@
+{       
+        "combatSmall":{
+    "temipira_variant": 1,
+    "wrayfatepi_variant": 5,
+	},
+	"combatMedium":{    
+    "temipira_variant": 1,
+    "wrayfatepi_variant": 3,
+	},
+  "combatLarge": {
+    "wrayfatepi_variant": 1,
+    "champiraton_variant": 1,
+    "medusapirt_variant": 1,
+    "vtendpigora_variant": 1,
+	},
+	"combatCapital":{
+    "wrayfatepi_variant": 1,
+    "champiraton_variant": 1,
+    "apogepirate_variant": 1,
+    "medusapirt_variant": 1,
+    "vtendpigora_variant": 1,
+	},
+	"carrierSmall":{
+    "wrayfatepi_variant": 5,
+	},
+	"carrierMedium":{
+    "temipira_variant": 1,
+    "wrayfatepi_variant": 3,
+	},
+	"carrierLarge":{
+    "apogepirate_variant": 1,
+    "temipira_variant": 3,
+    "wrayfatepi_variant": 1,
+	}
+}

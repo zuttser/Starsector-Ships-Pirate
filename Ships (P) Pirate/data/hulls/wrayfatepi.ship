@@ -1,0 +1,138 @@
+{
+  "hullName": "Wayfarer (P)",
+  "hullId": "wrayfatepi",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/wrayfatepi.png",
+  "style": "MIDLINE",
+  "height": 108,
+  "width": 86,
+  "center": [44, 44],
+  "builtInMods": ["shielded_holds"],
+  "collisionRadius": 85,
+  "shieldCenter": [11, 1],
+  "shieldRadius": 73,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 160,
+      "id": "WS 001",
+      "locations": [42, 14],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 160,
+      "id": "WS 002",
+      "locations": [42, -11],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 80,
+      "arc": 140,
+      "id": "WS 003",
+      "locations": [14, 30],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -80,
+      "arc": 140,
+      "id": "WS 004",
+      "locations": [8, -27],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 140,
+      "arc": 150,
+      "id": "WS 005",
+      "locations": [-25, 28],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 210,
+      "arc": 160,
+      "id": "WS 006",
+      "locations": [-25, -25],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 180,
+      "arc": 5,
+      "id": "WS 007",
+      "locations": [-32.5, 1.5],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    }
+  ],
+  "engineSlots": [
+    {
+      "angle": 179,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [-41, 13],
+      "style": "MIDLINE",
+      "width": 18
+    },
+    {
+      "angle": 181,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [-41, -11],
+      "style": "MIDLINE",
+      "width": 18
+    },
+    {
+      "angle": 172,
+      "contrailSize": 24,
+      "length": 24,
+      "location": [-40, 30],
+      "style": "MIDLINE",
+      "width": 8
+    },
+    {
+      "angle": 184,
+      "contrailSize": 24,
+      "length": 24,
+      "location": [-40, 26],
+      "style": "MIDLINE",
+      "width": 8
+    },
+    {
+      "angle": 188,
+      "contrailSize": 24,
+      "length": 24,
+      "location": [-40, -28],
+      "style": "MIDLINE",
+      "width": 8
+    },
+    {
+      "angle": 176,
+      "contrailSize": 24,
+      "length": 24,
+      "location": [-40, -23],
+      "style": "MIDLINE",
+      "width": 8
+    }
+  ],
+  "bounds": [
+    46, 35,
+    60, 19,
+    60, -16,
+    46, -34,
+    -37, -33,
+    -37, 35
+  ]
+}

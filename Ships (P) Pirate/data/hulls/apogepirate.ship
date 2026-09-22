@@ -1,0 +1,231 @@
+{
+  "hullName": "Apogee (P)",
+  "hullId": "apogepirate",
+  "hullSize": "CRUISER",
+  "spriteName": "graphics/ships/apogepirate.png",
+  "style": "HIGH_TECH",
+  "coversColor": "255,255,255,255",
+  "height": 280,
+  "width": 140,
+  "center": [70, 115],
+  "collisionRadius": 220,
+  "shieldCenter": [18, 0],
+  "shieldRadius": 200,
+  "viewOffset": 0,
+  "builtInMods": [
+    "hiressensors",
+    "surveying_equipment"
+  ],
+  "weaponSlots": [
+    {
+      "angle": 110,
+      "arc": 210,
+      "id": "WS 001",
+      "locations": [-54, 43],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 250,
+      "arc": 210,
+      "id": "WS 002",
+      "locations": [-54, -46],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -80,
+      "arc": 130,
+      "id": "WS 003",
+      "locations": [-16, -40],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 100,
+      "arc": 160,
+      "id": "WS 004",
+      "locations": [73, 52],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -45,
+      "arc": 5,
+      "id": "WS 005",
+      "locations": [79, -56],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 10,
+      "id": "WS 006",
+      "locations": [141, 33],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 10,
+      "id": "WS 007",
+      "locations": [142, -3],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 0,
+      "arc": 10,
+      "id": "WS 008",
+      "locations": [148, -24],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 45,
+      "arc": 5,
+      "id": "WS 009",
+      "locations": [-1, 35],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -45,
+      "arc": 5,
+      "id": "WS 010",
+      "locations": [5, -35],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": 45,
+      "arc": 5,
+      "id": "WS 011",
+      "locations": [-37, 40],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    }
+  ],
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 64,
+      "location": [-108, 44],
+      "style": "HIGH_TECH",
+      "width": 16
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 80,
+      "location": [-108, 33],
+      "style": "HIGH_TECH",
+      "width": 16
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 80,
+      "location": [-108, -32],
+      "style": "HIGH_TECH",
+      "width": 16
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 64,
+      "location": [-108, -43],
+      "style": "HIGH_TECH",
+      "width": 16
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [-109, 14],
+      "style": "HIGH_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [-109, 8],
+      "style": "HIGH_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [-109, -7],
+      "style": "HIGH_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 32,
+      "location": [-109, -13],
+      "style": "HIGH_TECH",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 48,
+      "location": [-109, 0],
+      "style": "HIGH_TECH",
+      "width": 12
+    }
+  ],
+  "bounds": [
+    65, 51,
+    105, 61,
+    134, 53,
+    141, 22,
+    138, -16,
+    150, -25,
+    137, -35,
+    140, -45,
+    114, -58,
+    83, -53,
+    76, -61,
+    53, -53,
+    74, -25,
+    19, -23,
+    -15, -56,
+    -31, -32,
+    -39, -54,
+    -69, -60,
+    -71, -39,
+    -91, -54,
+    -108, -49,
+    -108, -27,
+    -98, -22,
+    -111, -16,
+    -111, 16,
+    -95, 21,
+    -108, 27,
+    -107, 51,
+    -91, 51,
+    -75, 39,
+    -64, 58,
+    -29, 33,
+    1, 50,
+    4, 23,
+    76, 26
+  ]
+}

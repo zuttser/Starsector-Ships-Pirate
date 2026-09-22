@@ -1,0 +1,25 @@
+{
+    "hullFrequency":{
+	"tags":{},
+        "hulls":{
+            "champiraton":1,
+	    "apogepirate":0.5,
+	    "temipira":5,
+	    "medusapirt":0.5,
+	    "wrayfatepi":10,
+	    "vtendpigora":3,
+        },
+    },
+{
+    "knownShips":{
+        "tags":["",],
+		"hulls":[
+            "champiraton",
+            "apogepirate",
+	    "medusapirt",
+            "wrayfatepi",
+	    "vtendpigora",
+            "temipira"
+		],
+    },
+},
