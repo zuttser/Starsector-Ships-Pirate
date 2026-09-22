@@ -1,16 +1,18 @@
-<p align="center">
+
 # Starsector Ships (P) Pirate
-<p align="center">
+  
 ## Features
+
 <p align="center">
 - New ship variants
 - Custom ship designs
 - Designed to fit the vanilla Starsector setting and gameplay
-<p align="center">
+</p>
+  
 ## Ships
-<p align="center">
+
 ### Apogee P-Class
-<p align="center">
+
 ![Apogee P-Class](images/apogepirate.png)
 
 ### Champion P-Class
@@ -35,39 +37,53 @@
 
 ### Other Ships
 
+<p align="center">
 More ships will be added here.
+</p>
 
 ## Requirements
 
+<p align="center">
 - Starsector **0.98a-RC8**
 - No additional dependencies
+</p>
 
 ## Installation
 
+<p align="center">
 1. Download the latest release.
 2. Extract the `Ships (P) Pirate` folder.
 3. Move it to your Starsector `mods` folder.
 4. Launch Starsector.
 5. Enable **Ships (P) Pirate** in the mod manager.
+</p>
 
 ## Known Issues
 
+<p align="center">
 - None currently known.
+</p>
 
 ## Changelog
 
 ### Version 1.1.0 - 1.0.0
+
+<p align="center">
 - Initial release
 - New ship variants
 - Custom ship designs
 - Designed to fit the vanilla Starsector setting and gameplay
+</p>
 
 ## Credits
 
+<p align="center">
 Created by **Zuttser**.
+</p>
 
 ## License
 
+<p align="center">
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
 </p>
