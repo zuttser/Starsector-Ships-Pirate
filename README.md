@@ -1,2 +1,2 @@
-# Starsector-Ships-P-
+# Starsector-Ships-Pirate-
 Starsector Ships (P) Pirate
