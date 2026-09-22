@@ -46,7 +46,8 @@
 <p align="center">
 <img src="images/wrayfatepi.png" alt="Wayfarer P-Class">
 
-<br>
+<p align="center">
+  ...
   </p>
 
 <h3 align="center">Other Ships</h3>
