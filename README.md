@@ -1,16 +1,16 @@
 <p align="center">
 # Starsector Ships (P) Pirate
-
+<p align="center">
 ## Features
-
+<p align="center">
 - New ship variants
 - Custom ship designs
 - Designed to fit the vanilla Starsector setting and gameplay
-
+<p align="center">
 ## Ships
-
+<p align="center">
 ### Apogee P-Class
-
+<p align="center">
 ![Apogee P-Class](images/apogepirate.png)
 
 ### Champion P-Class
