@@ -55,6 +55,9 @@
   ...
   </p>
 
+<br>
+  </p>
+
 <h2 align="center">Requirements</h2>
 
 <p align="center">- Starsector 0.98a-RC8
