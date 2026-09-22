@@ -2,7 +2,7 @@
 <h1 align="center">Starsector Ships (P) Pirate</h1>
 
 <p align="center">
-  
+  ...
   </p>
 
 <h2 align="center">Features</h2>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  
+  ...
   </p>
   
 <h2 align="center">Ships</h2>
@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  
+  ...
   </p>
 
 <h2 align="center">Requirements</h2>
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  
+  ...
   </p>
 
 <h2 align="center">Installation</h2>
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  
+  ...
   </p>
 
 <h2 align="center">Known Issues</h2>
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  
+  ...
   </p>
 
 <h2 align="center">Changelog</h2>
@@ -100,7 +100,7 @@
 </p>
 
 <p align="center">
-  
+  ...
   </p>
 
 <h2 align="center">Credits</h2>
@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  
+  ...
   </p>
 
 <h2 align="center">License</h2>
