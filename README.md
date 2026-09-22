@@ -1,13 +1,15 @@
 
 <h1 align="center">Starsector Ships (P) Pirate</h1>
-  
+
+
 <h2 align="center">Features</h2>
 
 <p align="center">- New ship variants
 <p align="center">- Custom ship designs
 <p align="center">- Designed to fit the vanilla Starsector setting and gameplay
 </p>
-  
+
+
 <h2 align="center">Ships</h2>
 
 <h3 align="center">Apogee P-Class</h3>
@@ -45,11 +47,13 @@
 <p align="center">More ships will be added here.
 </p>
 
+
 <h2 align="center">Requirements</h2>
 
 <p align="center">- Starsector 0.98a-RC8
 <p align="center">- No additional dependencies
 </p>
+
 
 <h2 align="center">Installation</h2>
 
@@ -60,10 +64,12 @@
 <p align="center">5. Enable *Ships (P) Pirate* in the mod manager.
 </p>
 
+
 <h2 align="center">Known Issues</h2>
 
 <p align="center">- None currently known.
 </p>
+
 
 <h2 align="center">Changelog</h2>
 
@@ -75,10 +81,12 @@
 <p align="center">- Designed to fit the vanilla Starsector setting and gameplay
 </p>
 
+
 <h2 align="center">Credits</h2>
 
 <p align="center">Created by Zuttser
 </p>
+
 
 <h2 align="center">License</h2>
 
