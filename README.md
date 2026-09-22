@@ -108,10 +108,6 @@
 <p align="center">Created by Zuttser
 </p>
 
-<p align="center">
-  ...
-  </p>
-
 <h2 align="center">License</h2>
 
 This project is licensed under the MIT License.
